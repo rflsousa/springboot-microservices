@@ -1,0 +1,14 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "sqltools.connections": [
+        {
+            "database": "microservices",
+            "dialect": "MySQL",
+            "name": "microservices_db_1",
+            "password": "123456",
+            "port": 3306,
+            "server": "192.168.99.100",
+            "username": "root"
+        }
+    ]
+}
